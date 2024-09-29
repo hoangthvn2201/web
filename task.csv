@@ -1,0 +1,3 @@
+ID,task_name,task_describe,task_type,software_for_task,output,tool_id
+1,"Xuất ảnh kết quả phân tích và dán ảnh tự động vào Powerpoint","Xuất ảnh kết quả phân tích và dán anh tự động vào Powerpoint",CAE,"Ansys Workbench & Powerpoint","Powerpoint matome kết quả phân tích",1
+2,"Xử lí dữ liệu","Nhập dữ liệu file text vào excel để tính toán theo từng pattern",CAE,"AMESim + excell","excel grap + number",2
